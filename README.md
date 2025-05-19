@@ -6,9 +6,9 @@ From this link you can downloud and see the project files:
 https://drive.google.com/file/d/1t2sClAeUagZKCYy3WAu7RllbGf-VMNa_/view?usp=sharing
 ---
 
-## 📱 Main Features
+##  Main Features
 
-### 👤 Customer Features
+###  Customer Features
 - Login / Registration  
 - Browse and search books  
 - View book details  
@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1t2sClAeUagZKCYy3WAu7RllbGf-VMNa_/view?usp=shari
 - Track payment history  
 - Edit profile (username, password, address, etc.)
 
-### 🛒 Seller Features
+###  Seller Features
 - Login / Registration  
 - Upload and manage book listings  
 - Accept or reject incoming orders  
@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1t2sClAeUagZKCYy3WAu7RllbGf-VMNa_/view?usp=shari
 - Track payment history from customers  
 - Edit seller profile  
 
-### ⚙ Shared App Features
+###  Shared App Features
 - Fully separate home screens for customers and sellers  
 - Navigation drawer and bottom navigation bar per user type  
 - Uses Activities and Fragments for modular UI  
@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1t2sClAeUagZKCYy3WAu7RllbGf-VMNa_/view?usp=shari
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Java** (Android SDK)
 - **Android Studio**
@@ -47,7 +47,7 @@ https://drive.google.com/file/d/1t2sClAeUagZKCYy3WAu7RllbGf-VMNa_/view?usp=shari
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 BookCave/
 
@@ -89,7 +89,7 @@ BookCave/
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - This app does **not** use a backend or database — all logic is handled client-side for demo purposes.
 - User and seller actions are simulated using static logic and in-memory object storage.
@@ -98,7 +98,7 @@ BookCave/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Open the project in **Android Studio**.
 2. Sync Gradle and resolve dependencies.
